@@ -5,12 +5,14 @@
 まず、自分のメールアドレスをjsonに追加しましょう。
 追加方法: 
 <pre>
-  "null@test.com: [
-  {
-  [...]
-  }
+{
+  "null@test.com": [
+      {
+          [...]
+      }
   ]<b>,
   "test@example.com": []</b>
+}
 </pre>
 
 次に、add.pyを開きましょう。
