@@ -8,7 +8,7 @@
   "null@test.com: [
   [...]
   ],
-  <span>"test@example.com []
+  <span style font-size: bold>"test@example.com []
   </span>
 </pre>
 
