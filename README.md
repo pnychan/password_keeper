@@ -6,7 +6,9 @@
 追加方法: 
 <pre>
   "null@test.com: [
+  {
   [...]
+  }
   ]<b>,
   "test@example.com": []</b>
 </pre>
