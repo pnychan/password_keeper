@@ -19,4 +19,11 @@
 自分のメールアドレスを入力したら、質問に答えるだけ。
 password_info.jsonに自分の情報を保存できます。
 
+## ディレクトリ構成
+<pre>
+├─main
+└─password_assemble
+    └─__pycache__
+</pre>
+
 
