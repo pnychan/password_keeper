@@ -8,7 +8,7 @@
   "null@test.com: [
   [...]
   ],
-  **"test@example.com: []**
+<b>"test@example.com: []</b>
 </pre>
 
 次に、add.pyを開きましょう。
