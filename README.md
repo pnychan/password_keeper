@@ -8,8 +8,8 @@
   "null@test.com: [
   [...]
   ],
-  <span style font-size: bold>"test@example.com []
-  </span>
+  <strong>"test@example.com: []
+  </strong>
 </pre>
 
 次に、add.pyを開きましょう。
