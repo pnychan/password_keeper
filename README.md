@@ -3,12 +3,12 @@
 
 ## 使い方
 まず、自分のメールアドレスを手動でjsonに追加しましょう。
-追加方法
+追加方法: 
 <pre>
   "null@test.com: [
   [...]
   ],
-  _"test@example.com: []_
+  **"test@example.com: []**
 </pre>
 
 次に、add.pyを開きましょう。
