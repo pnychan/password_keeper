@@ -72,7 +72,7 @@ if a == 'y':
           contain = input("内容を教えてください： ")
           index = index + 1
           label_list.append(lbl)
-          name_list.append(name)
+          name_list.append(contain)
           
           time.sleep(0.5)
           if index != 2:
